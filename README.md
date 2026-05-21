@@ -41,7 +41,7 @@ opens at `http://localhost:8501`
 
 ## background
 
-built this to get hands-on experience with how RAG systems work — something I kept reading about but wanted to actually implement from scratch. covers the core ideas: text chunking, vector search, and retrieval — without relying on frameworks like LangChain that abstract everything away.
+built this to get hands-on experience with how RAG systems work,something I kept reading about but wanted to actually implement from scratch. covers the core ideas like text chunking, vector search, and retrieval without relying on frameworks like LangChain that abstract everything away.
 
 
 ---
