@@ -1,0 +1,18 @@
+# Core ML / NLP
+sentence-transformers>=2.6.0
+transformers>=4.40.0
+torch>=2.1.0
+
+# Vector search
+faiss-cpu>=1.8.0
+
+# Document loading
+pdfplumber>=0.11.0
+
+# Web UI
+streamlit>=1.35.0
+
+# Utilities
+numpy>=1.26.0
+scikit-learn>=1.4.0    # TF-IDF fallback + eval metrics
+tqdm>=4.66.0
